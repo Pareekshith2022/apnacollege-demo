@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repo.
 <br>
-Author -> Pareekshith Dinesh
+Author -> Pareekshith Mangalore
